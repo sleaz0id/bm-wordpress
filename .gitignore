@@ -1,0 +1,3 @@
+secrets.env
+mysql-data/
+persistent_mysql_data/

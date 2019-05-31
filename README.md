@@ -1,1 +1,1 @@
-# bm-wordpress
+# Burning Minds wordpress
